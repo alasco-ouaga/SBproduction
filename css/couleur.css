@@ -1,0 +1,185 @@
+.couleur {
+      color: rgb(66, 66, 245);
+      font-family: 'Cinzel';font-size: 22px;
+
+}
+
+.nom {
+      text-transform:capitalize;
+      color: rgb(66, 66, 245);
+}
+
+.mar {
+      margin-top: 7%;
+}
+
+
+.haut {
+      height: 10%;
+}
+
+.cat {
+      padding-left: 15%;
+     }
+
+.principal {
+      margin-top: 0%;
+      padding-top: 7%;
+      padding-bottom: 7%;
+}
+
+.gestion {
+        margin-bottom: 10%;
+        margin-top: 10%;
+     }
+
+.TextDecoration {
+      
+      font-family : Copperplate Gothic;
+   }
+
+   .decorationcentre {
+      font-family : Copperplate Gothic;
+   }
+
+
+   .decorationcentre {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+   }
+
+   .decorationcentre1 {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 40px;
+   }
+
+   .textcolor {
+      color: white;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   .footer {
+      background-color: white;
+      height:100%;
+     
+  }
+
+  .footer1 {
+   background-color: rgba(32, 31, 31, 0.479);
+   height:100%;
+  
+}
+
+
+  .color1{
+     color: rgb(189, 192, 12);
+  }
+
+  .color2{
+     color: rgb(17, 182, 174);
+}
+s
+   .TextDecorat1 {
+      color: white; 
+  }
+
+
+  .corp {
+      background:#46434079;
+     
+  }
+
+.corousel{
+    padding-right: 0%;
+}
+
+.pied {
+   font-family: 'Kalam';font-size: 22px;
+}
+
+  .decorationcentre2 {
+      font-family: Kaushan Scrip;
+      font-size: 20px;
+      color: rgb(19, 16, 16);
+      padding-left: 40%;
+      font-family: 'Permanent Marker';
+      font-size: 22px;
+   }
+
+   .gestionforma
+   {
+      font-family: 'Dancing Script';font-size: 30px;
+      font-family: 'Fasthand';font-size: 30px;
+      font-family: 'Fuzzy Bubbles';font-size: 25px;
+   }
+
+   .textforma4{
+      font-family: 'Ruda';font-size: 26px;
+   }
+
+   .decorationcentre3 {
+      font-family: 'Tillana';font-size: 22px;
+      font-size: 20px;
+      color: rgb(8, 8, 8);
+      padding-left: 40%;
+   }
+
+   .imag {
+      border-radius: 50%;
+      }
+
+  
+      .trans {
+          background-color: rgba(0, 0, 0, 0);
+         }
+   
+.ppp {
+
+   border: none;
+   border-bottom: 1px solid rgb(237, 241, 239);
+   background: rgba(33, 34, 34, 0.4);
+   }
+
+.police1{
+   font-family: Optima, sans-serif;
+   font-size: 60px;
+   font-weight: bold;
+}
+
+.css{
+   
+   padding-left: 0%;
+   color: white;
+}
+
+.textforma1{
+  font-family: Georgia, 'Times New Roman', Times, serif ;
+  font-size: 30px;
+}
+
+.textforma2{
+   font-family: Engravers MT;
+   font-family: Times New Roman;
+   font-size: 20px;
+ }
+
+ .textforma3{
+   font-family: Forte;
+   font-size: 25px;
+   color: brown;
+ }
+
+
+
+.centre{
+   align-items: flex-start;
+   width: 100%
+}
+
+.misepage{
+   margin-top: 10%;
+}
+
+.ic{
+   color: #ffff;
+}
